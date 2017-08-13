@@ -1,6 +1,14 @@
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+_history/
+Win32/
+Win64/
+*.~*
+*.identcache
+*.local
+*.dsk
+*.res
 
 # Folder config file
 Desktop.ini
